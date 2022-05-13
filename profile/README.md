@@ -1,7 +1,7 @@
 ## Hi there 👋
 ##############################
 # 代码提交流程：
-1：新建或克隆代码仓(Repository);<br>
+1：新建或克隆代码仓(Repository)，新建代码仓时注意一般设置为Privite;<br>
 2: 从Main Branch上新建一个自己的Branch；<br>
 3：对自己的Branch上传或修改代码；<br>
 4：将本地的代码Commit和Push到自己的分支；<br>
