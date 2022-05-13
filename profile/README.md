@@ -1,5 +1,13 @@
 ## Hi there 👋
+##############################
+代码提交流程：
+1：新建或克隆代码仓(Repository);
+2: 从Main Branch上新建一个自己的Branch；
+3：对自己的Branch上传或修改代码；
+4：将本地的代码Commit和Push到自己的分支；
+5：如果代码符合规范，可与Main Branch Merge. 
 
+##############################
 CUP-NMR-AI-Python-编程规范
 
 	编码
